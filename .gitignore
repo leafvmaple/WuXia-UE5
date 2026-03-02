@@ -1,0 +1,64 @@
+# Visual Studio 2015/2017 user specific files
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Builds
+Build/
+
+# Content not needed in source control
+# (Uncomment if you want to ignore Content)
+# Content/
+
+# User specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
+
+# Code workspace
+*.code-workspace
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+._*
+
+# Linux
+*~
